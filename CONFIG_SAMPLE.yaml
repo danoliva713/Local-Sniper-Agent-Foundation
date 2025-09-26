@@ -1,0 +1,8 @@
+zip_code: 12345
+thresholds:
+  discount_percent: 20
+  margin_percent: 15
+alerts:
+  email: true
+  sms: false
+auto_purchase: false
